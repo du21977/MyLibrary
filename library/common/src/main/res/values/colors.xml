@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="textColor_teshe">#45B000</color>
+    <color name="textColor_white">#ffffff</color>
+    <color name="textColor_999">#999999</color>
+    <color name="textColor_teshe_half">#A2D77F</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="transparent_helf">#70000000</color>
+    <color name="transparent30">#28000000</color>
+    <color name="transparent60">#48000000</color>
+    <color name="transparent10">#12000000</color>
+    <color name="transparent5">#08000000</color>
+
+
+    <color name="color_item_press">#ffff0000</color>
+    <color name="color_item_normal">#44ff0000</color>
+    <color name="s1">#ff333333</color>
+    <color name="s2">#ff666666</color>
+    <color name="s2_night">#ff404651</color>
+    <color name="s3">#ff999999</color>
+    <color name="list_item_divider">#ffe6e6e6</color>
+
+    <color name="white">#ffffff</color>
+
+
+</resources>

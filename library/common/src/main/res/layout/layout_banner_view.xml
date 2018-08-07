@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:background="#EBEBEB"
+    >
+
+    <TextView
+        android:id="@+id/id_num"
+        android:layout_width="100dp"
+        android:layout_gravity="center"
+        android:layout_height="100dp"
+        android:gravity="center"
+        android:text="1" />
+
+</FrameLayout>
+<!--<com.hc.library.BannerView xmlns:android="http://schemas.android.com/apk/res/android"-->
+    <!--xmlns:app="http://schemas.android.com/apk/res-auto"-->
+    <!--android:id="@+id/banner_view"-->
+    <!--android:layout_width="match_parent"-->
+    <!--app:dotSize="8dp"-->
+    <!--app:dotDistance="10dp"-->
+    <!--app:dotGravity="right"-->
+    <!--app:withProportion="8"-->
+    <!--app:heightProportion="3"-->
+    <!--app:bottomColor="@color/banner_bottom_bar_bg_day"-->
+    <!--app:dotIndicatorFocus="@color/dot_select_color"-->
+    <!--app:dotIndicatorNormal="@color/dot_unselect_color"-->
+    <!--android:layout_height="130dp"-->
+    <!--/>-->
