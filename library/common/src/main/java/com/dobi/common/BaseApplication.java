@@ -13,23 +13,11 @@ import android.content.res.Resources;
 public class BaseApplication extends Application {
 
     private static BaseApplication baseApplication;
-    private static boolean sShowDialog;
-
-    public static boolean isShowDialog() {
-        return sShowDialog;
-    }
-
-    public static void setShowDialog(boolean showDialog) {
-        sShowDialog = showDialog;
-    }
 
     @Override
     public void onCreate() {
         super.onCreate();
         baseApplication = this;
-//        OkHttpClientManager.init(getApplicationContext());
-//        OkHttpUtil.init(this);
-//        SPUtils.init(getApplicationContext());
 
 
     }
@@ -46,13 +34,4 @@ public class BaseApplication extends Application {
         return baseApplication.getResources();
     }
 
-    private static boolean offLine;
-
-    public static boolean offLine() {
-        return offLine;
-    }
-
-    public static void setOffLine(boolean offLine) {
-        BaseApplication.offLine = offLine;
-    }
 }
