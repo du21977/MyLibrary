@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\AndroidProject\\Library\\MyLibrary\\library\\ptr-lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_jh_loading.jpg",
+        "source": "F:\\AndroidProject\\Library\\MyLibrary\\library\\ptr-lib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_jh_loading.jpg"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Library\\MyLibrary\\library\\ptr-lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ic_arrow_refresh.png",
+        "source": "F:\\AndroidProject\\Library\\MyLibrary\\library\\ptr-lib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ic_arrow_refresh.png"
+    },
+    {
+        "merged": "F:\\AndroidProject\\Library\\MyLibrary\\library\\ptr-lib\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\ptr_rotate_arrow.png",
+        "source": "F:\\AndroidProject\\Library\\MyLibrary\\library\\ptr-lib\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\ptr_rotate_arrow.png"
+    }
+]

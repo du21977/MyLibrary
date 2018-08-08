@@ -29,6 +29,15 @@
         android:text="导航标题栏"
         />
 
+    <Button
+        android:id="@+id/btn_ptr_refresh"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="下拉刷新"
+        />
+
+
+
     <TextView
         android:id="@+id/tv"
         android:layout_width="match_parent"

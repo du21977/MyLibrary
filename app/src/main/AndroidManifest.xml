@@ -17,7 +17,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".demo.AlertDialogActivity" />
-        <activity android:name=".demo.NavigationBarActivity"></activity>
+        <activity android:name=".demo.NavigationBarActivity" />
+        <activity android:name=".ptrdemo.PtrRefreshActivity"></activity>
     </application>
 
 </manifest>
