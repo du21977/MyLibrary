@@ -16,8 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
         <activity android:name=".demo.AlertDialogActivity" />
+        <activity android:name=".demo.NavigationBarActivity"></activity>
     </application>
 
 </manifest>

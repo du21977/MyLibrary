@@ -19,7 +19,9 @@
     <color name="s2">#ff666666</color>
     <color name="s2_night">#ff404651</color>
     <color name="s3">#ff999999</color>
+    <color name="s9">#ff6b5547</color>
     <color name="list_item_divider">#ffe6e6e6</color>
+    <color name="title_bar_bg_day">#ffdcd9cf</color>
 
     <color name="white">#ffffff</color>
 
